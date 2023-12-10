@@ -7,4 +7,5 @@ New
 kiva
 mina
 jija
+Mini
 
